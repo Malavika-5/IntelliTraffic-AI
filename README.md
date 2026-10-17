@@ -89,6 +89,8 @@ The platform follows a frontend-backend architecture.
 - **Database:** Stores application data during development.
 - **Routing integration:** Can provide route and travel-time information when configured with a supported mapping API.
 
+[IntelliTraffic AI Demo](https://drive.google.com/drive/u/1/folders/1gTeV2emqa6jwgEcaJkltIvCg3hoSfOYB)
+
 ## Getting Started
 
 ### Prerequisites
